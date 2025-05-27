@@ -20,8 +20,8 @@ Welcome to the **Restaurant Project**, a restaurant website designed to deliver 
 
 Have questions, feedback, or want to collaborate? Reach out to me!
 
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/Fikri Alhaidar](https://linkedin.com/in/Fikri Alhaidar)  
+- Email: fikrialhaidar17@gmail.com  
+- LinkedIn: [linkedin.com/in/Fikri Alhaidar](https://linkedin.com/in/FikriAlhaidar)  
 - GitHub: [github.com/Alhaidar13](https://github.com/Alhaidar13)
 
 
