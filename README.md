@@ -1,20 +1,28 @@
 ﻿# 🍽️ Restaurant Project
 
-Selamat datang di **Restaurant Project**, sebuah proyek website restoran yang dirancang untuk memberikan pengalaman kuliner digital terbaik. Website ini memungkinkan pengguna untuk melihat menu, memesan makanan, dan mengetahui informasi restoran dengan mudah dan menarik.
+Welcome to the **Restaurant Project**, a restaurant website designed to deliver the best digital dining experience. This site allows users to explore the menu, place food orders, and get restaurant information easily and engagingly.
 
-## 🚀 Fitur Unggulan
+## 🚀 Key Features
 
-- 🧭 Navigasi sederhana dan responsif
-- 📋 Daftar menu lengkap dengan gambar dan harga
-- 🛒 Fitur pemesanan makanan online (simulasi)
-- 🗺️ Lokasi restoran dan jam operasional
-- 📱 Desain responsif untuk semua perangkat
+- 🧭 Simple and responsive navigation  
+- 📋 Complete menu list with images and prices  
+- 🛒 Online food ordering feature (simulated)  
+- 🗺️ Restaurant location and opening hours  
+- 📱 Responsive design for all devices  
 
-## 🛠️ Teknologi yang Digunakan
+## 🛠️ Technologies Used
 
-- **HTML5** – Struktur halaman
-- **CSS3** – Desain dan tata letak
-- **JavaScript** – Interaktivitas
+- **HTML5** – Page structure  
+- **CSS3** – Design and layout  
+- **JavaScript** – Interactivity  
+
+## 📬 Contact
+
+Have questions, feedback, or want to collaborate? Reach out to me!
+
+- Email: your.email@example.com  
+- LinkedIn: [linkedin.com/in/Fikri Alhaidar](https://linkedin.com/in/Fikri Alhaidar)  
+- GitHub: [github.com/Alhaidar13](https://github.com/Alhaidar13)
 
 
 
